@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sthtnr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sthtnr.github.io
+  * I am sthtnr (https://keybase.io/sthtnr) on keybase.
+  * I have a public key ASDSoLjGSu4WAwh8-kDiIIGAAmBqomjRaIpAcqQ7pRZlmQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d2a0b8c64aee1603087cfa40e220818002606aa268d1688a4072a43ba51665990a",
+      "host": "keybase.io",
+      "kid": "0120d2a0b8c64aee1603087cfa40e220818002606aa268d1688a4072a43ba51665990a",
+      "uid": "c7d23be9192c82c94e872ee3d8d0c919",
+      "username": "sthtnr"
+    },
+    "merkle_root": {
+      "ctime": 1564563922,
+      "hash": "731ba66a408702bc4cbaae80dde4d86a0e5c873756ac05da5df66f42eadbbc8f57efd8a18bb9a075d5217a83a6e25126d5ef664c084621394ff2b61d02516a90",
+      "hash_meta": "713ca86527ff6786dc3ffae798c4414439d638689656ace97e5784af99a2deb7",
+      "seqno": 5893949
+    },
+    "service": {
+      "entropy": "MC83mJqHq4rpk1nMY25OYK2+",
+      "hostname": "sthtnr.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1564563949,
+  "expire_in": 504576000,
+  "prev": "635243a3e0450233414ebd6663d6e4150870c9a74a8f0d31d5f153ccc4af4d89",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0qC4xkruFgMIfPpA4iCBgAJgaqJo0WiKQHKkO6UWZZkKp3BheWxvYWTESpcCC8QgY1JDo+BFAjNBTr1mY9bkFQhwyadKjw0x1fFTzMSvTYnEIOibm97FzqfeMXx6uvz2EptZLeFKbUCWyxWQ279PtIsVAgHCo3NpZ8RAvOAe3vr4Ezm6XqisTmeO32nh5PvreBcawDoqqPYnYrOkbCtF1LR9TExJm2ggG8yWHgtxjfGF2YGAH5GmoKwjC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBGNqZBKKTf9bY62x2e2IMnwH8bi3Qo63q0X70zJ1PaUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sthtnr
+
+==================================================================
